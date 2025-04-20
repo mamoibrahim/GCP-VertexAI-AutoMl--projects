@@ -50,6 +50,9 @@ gsutil cp ./data.csv gs://${BUCKET}
 
 ![image](https://github.com/user-attachments/assets/f17afcd4-aee3-499f-ae6d-93112d796f15)
 
+![image](https://github.com/user-attachments/assets/facb85cc-2d6d-442e-bdec-69fa1cb1ff3f)
+
+
 
 
 # 5- training 
@@ -65,5 +68,4 @@ gsutil cp ./data.csv gs://${BUCKET}
 
 ![image](https://github.com/user-attachments/assets/a3f40f67-5828-4200-993c-80027082b200)
 
-![image](https://github.com/user-attachments/assets/facb85cc-2d6d-442e-bdec-69fa1cb1ff3f)
 
