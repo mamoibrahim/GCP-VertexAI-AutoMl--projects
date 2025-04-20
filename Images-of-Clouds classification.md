@@ -64,8 +64,3 @@ gsutil cp ./data.csv gs://${BUCKET}
 
 
 
-# 6- generating predictions from the endpoint
-
-![image](https://github.com/user-attachments/assets/a3f40f67-5828-4200-993c-80027082b200)
-
-
